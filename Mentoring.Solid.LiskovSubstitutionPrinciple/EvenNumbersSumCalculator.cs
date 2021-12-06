@@ -2,12 +2,12 @@
 
 namespace Mentoring.Solid.LiskovSubstitutionPrinciple
 {
-    public class EvenNumbersSumCalculator : SumCalculator
+    public class EvenNumbersSumCalculator : Calculator
     {
         public EvenNumbersSumCalculator(int[] numbers)
             : base(numbers)
         {
         }
-        public int Calculate() => Numbers.Where(x => x % 2 == 0).Sum();
+        public override int Calculate() => Numbers.Where(x => x % 2 == 0).Sum();
     }
 }

@@ -2,13 +2,11 @@
 
 namespace Mentoring.Solid.LiskovSubstitutionPrinciple
 {
-    public class SumCalculator
+    public class SumCalculator : Calculator
     {
-        protected readonly int[] Numbers;
-        public SumCalculator(int[] numbers)
+        public SumCalculator(int[] numbers) : base(numbers)
         {
-            Numbers = numbers;
         }
-        public int Calculate() => Numbers.Sum();
+        public override int Calculate() => Numbers.Sum();
     }
 }

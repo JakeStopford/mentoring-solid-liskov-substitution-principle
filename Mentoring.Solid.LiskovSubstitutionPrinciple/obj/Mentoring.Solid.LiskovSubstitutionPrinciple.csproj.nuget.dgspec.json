@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\mentoring\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj": {}
+    "C:\\source\\repos\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Source\\mentoring\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj": {
+    "C:\\source\\repos\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\mentoring\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj",
+        "projectUniqueName": "C:\\source\\repos\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj",
         "projectName": "Mentoring.Solid.LiskovSubstitutionPrinciple",
-        "projectPath": "C:\\Source\\mentoring\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj",
-        "packagesPath": "C:\\Users\\tayloja\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\mentoring\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\obj\\",
+        "projectPath": "C:\\source\\repos\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj",
+        "packagesPath": "C:\\Users\\Jake_\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\mentoring-solid-liskov-substitution-principle\\Mentoring.Solid.LiskovSubstitutionPrinciple\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tayloja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jake_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://internal.nuget.ao.com/nuget": {},
-          "http://nuget.drl.local:8080/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

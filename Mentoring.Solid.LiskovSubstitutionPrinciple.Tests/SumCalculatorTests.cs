@@ -22,7 +22,7 @@ namespace Mentoring.Solid.LiskovSubstitutionPrinciple.Tests
         {
             // Arrange
             var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
-            SumCalculator sumCalculator = new SumCalculator(numbers);
+            Calculator sumCalculator = new SumCalculator(numbers);
 
             // Act
             var result = sumCalculator.Calculate();
@@ -53,7 +53,7 @@ namespace Mentoring.Solid.LiskovSubstitutionPrinciple.Tests
             // Arrange
             var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
 
-            SumCalculator sumCalculator = new EvenNumbersSumCalculator(numbers);
+            Calculator sumCalculator = new EvenNumbersSumCalculator(numbers);
             
             // Act
             var result = sumCalculator.Calculate();

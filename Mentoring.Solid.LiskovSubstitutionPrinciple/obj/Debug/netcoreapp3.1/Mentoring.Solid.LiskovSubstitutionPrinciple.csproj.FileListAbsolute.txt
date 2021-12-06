@@ -16,3 +16,13 @@ C:\Source\mentoring\mentoring-solid-liskov-substitution-principle\Mentoring.Soli
 C:\Source\mentoring\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
 C:\Source\mentoring\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.dll
 C:\Source\mentoring\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.pdb
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.deps.json
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.dll
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.pdb
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.dll
+C:\source\repos\mentoring-solid-liskov-substitution-principle\Mentoring.Solid.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\Mentoring.Solid.LiskovSubstitutionPrinciple.pdb
